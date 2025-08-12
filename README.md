@@ -1,4 +1,4 @@
-Projeto NEXIT
+## Projeto NEXIT
 # React + TypeScript + Vite + Tailwind
 
 ## 📌 Sobre o Projeto
@@ -6,14 +6,14 @@ Projeto NEXIT
 **Nexit** é uma onepage responsiva e moderna, com funcionamento de API pública.
 
 📥 Como Rodar o Projeto Localmente
-##1️⃣ Clonar o repositório
- # git clone
+## 1️⃣ Clonar o repositório
+ git clone
 ## 2️⃣ Acessar a pasta do projeto
- # ex: cd seu-repositorio
+ ex: cd seu-repositorio
 ## 3️⃣ Instalar dependências
- # npm install
+npm install
 ou
-# yarn install
+yarn install
 ## 4️⃣ Rodar o servidor de desenvolvimento
 # npm run dev
 
