@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Marcellus&display=swap');
+
+
+* {
+  font-family: 'DM Sans', 'GalleryModern', 'Marcellus';
+  box-sizing: border-box;
+}
+
+html, body, #root {
+  width: 100%;
+  min-height: 100vh;
+  overflow-x: hidden;
+}
+
+.font-marcellus {
+  font-family: 'Marcellus', serif;
+}
+
+.font-gallery {
+  font-family: 'Gallery', sans-serif;
+}
