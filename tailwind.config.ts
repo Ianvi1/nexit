@@ -4,6 +4,7 @@ module.exports = {
     extend: {
       fontFamily: {
         marcellus: ['Marcellus', 'serif'],
+        gallery: ['GalleryModern', 'serif'],
       },
     },
   },

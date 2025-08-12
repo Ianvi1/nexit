@@ -11,10 +11,13 @@ import TalkSection from "./sections/Brand/TalktoUs";
 import Footer from "./components/layout/Footer/footer";
 import Work from "./sections/Brand/HowWeWork";
 import "./styles/fonts.css";
+import { SearchProvider } from "./components/layout/Header/SearchProvider";
+import SearchModal from "./components/layout/Header/SearchModal";
 
 const App: React.FC = () => {
   return (
     <div className="min-h-screen bg-white text-black">
+      <SearchProvider>
       <Header />
       <DigitalSolution />
       <AboutNexit />
@@ -24,6 +27,8 @@ const App: React.FC = () => {
       <StrategySection />
       <TalkSection />
       <Footer />
+      <SearchModal/>
+            </SearchProvider>
     </div>
   );
 };
