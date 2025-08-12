@@ -19,3 +19,6 @@ npm run dev
 O site ficará disponível em:
 http://localhost:5173
 
+hospedagem com a vercel:
+
+https://nexit-git-master-ianvis-projects.vercel.app/
